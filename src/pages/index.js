@@ -23,7 +23,7 @@ export default class Index extends Component {
 
     return (
       <Layout>
-        <Helmet title={`${config.siteTitle} – Full Stack Software Developer`} />
+        <Helmet title={`${config.siteTitle} – Catatan Freelancer`} />
         <SEO />
         <div className="container">
           <div className="lead">
@@ -65,9 +65,9 @@ export default class Index extends Component {
         <div className="container front-page">
           <section className="section">
             <h2>
-              Latest Articles
+              Tulisan Terbaru
               <Link to="/blog" className="view-all">
-                View all
+                Lihat Semuanya
               </Link>
             </h2>
             <PostListing simple postEdges={latestPostEdges} />
@@ -75,9 +75,9 @@ export default class Index extends Component {
 
           <section className="section">
             <h2>
-              Most Popular
+              Populer
               <Link to="/categories/popular" className="view-all">
-                View all
+                Lihat Semuanya
               </Link>
             </h2>
             <PostListing simple postEdges={popularPostEdges} />
