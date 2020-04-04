@@ -65,7 +65,7 @@ export default class Index extends Component {
 
           <section className="section">
             <h2>
-              Populer
+              Populer Pos
               <Link to="/categories/popular" className="view-all">
                 Lihat Semuanya
               </Link>
