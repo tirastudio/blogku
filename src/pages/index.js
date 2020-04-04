@@ -23,7 +23,7 @@ export default class Index extends Component {
 
     return (
       <Layout>
-        <Helmet title={`${config.siteTitle} – Catatan Freelancer`} />
+        <Helmet title={`Freelancer Harian Lepas :V`} />
         <SEO />
         <div className="container">
           <div className="lead">
@@ -32,12 +32,12 @@ export default class Index extends Component {
               <p>
                 Anggap aja Freelancer harian lepas 😁
                 Blog ini berisi tulisan, opini dan juga merupakan dokumentasi
-                pribadi biar gak kelupaan.
+                pribadi biar gak asik kelupaan.
               </p>
                
             </div>
             <div className="newsletter-section">
-              <img src={tania} className="newsletter-avatar" alt="Tania" />
+              <img src={tania} className="newsletter-avatar" alt="Tiyo" />
               <div>
                 <h3>Email Newsletter</h3>
                 <p>
@@ -73,17 +73,17 @@ export default class Index extends Component {
           </section>
 
           <section className="section">
-            <h2>Open Source Projects</h2>
+            <h2>Mau Bikin Website Apa ?</h2>
             <ProjectListing projects={projects} />
           </section>
 
           <section className="section">
-            <h2>Interviews</h2>
+            <h2>Produk Bagus</h2>
             <SimpleListing simple data={podcasts} />
           </section>
 
           <section className="section">
-            <h2>Talks</h2>
+            <h2>Video Animasi</h2>
             <SimpleListing simple data={speaking} />
           </section>
         </div>
