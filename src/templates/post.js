@@ -68,7 +68,7 @@ export default class PostTemplate extends Component {
                 </a>
                 /
                 <a>
-                  Agus Setiyo Budi ✏️
+                  Agus Setiyo Budi
                 </a>
               </div>
               <PostTags tags={post.tags} />
