@@ -23,28 +23,38 @@ export default class Index extends Component {
 
     return (
       <Layout>
-        <Helmet title={`${config.siteTitle} – Catatan Freelancer`} />
+        <Helmet title={`${config.siteTitle} – Full Stack Software Developer`} />
         <SEO />
         <div className="container">
           <div className="lead">
             <div className="elevator">
-              <h1>{`Hola, I'm Tiyo 👋`} </h1>
+              <h1>{`Hey, I'm Tania 👋`} </h1>
               <p>
-                Situs ini berisi tulisan, opini dan juga merupakan dokumentasi untuk saya pribadi ketika sedang belajar atau membagikan sesuatu.
-                Saya sengaja membebaskan situs ini dari iklan karena saya sendiri sering merasa terganggu dengan adanya iklan. Enjoy your reading! 😁
+                I'm a full stack software developer creating{' '}
+                <a href="https://github.com/taniarascia" target="_blank" rel="noopener noreferrer">
+                  open source
+                </a>{' '}
+                projects and <Link to="/blog">writing</Link> about modern JavaScript, Node.js, and
+                development.
               </p>
               <div className="social-buttons">
-                <iframe id="webroundbuttonwidget2" file="webroundbuttonwidget" src="https://telegrambutton.com/webroundbuttonwidget.php?chat_id=mimin94&showchatid=true&showmembercount=true&showmembercount=true&color=&pulse=true&textcolor=white&shadowval=z-depth-0&textval=join channel" border="1" style="border:20px;height: 100px;width: 100px;"></iframe>
+                <GitHubButton
+                  href="https://github.com/taniarascia"
+                  data-size="large"
+                  data-show-count="true"
+                >
+                  taniarascia
+                </GitHubButton>
               </div>
             </div>
             <div className="newsletter-section">
-              <img src={tania} className="newsletter-avatar" alt="tiyo" />
+              <img src={tania} className="newsletter-avatar" alt="Tania" />
               <div>
                 <h3>Email Newsletter</h3>
                 <p>
                   I write tutorials. Get an update when something new comes out by signing up below!
                 </p>
-                <a className="button" href="https://simimin.substack.com">
+                <a className="button" href="https://taniarascia.substack.com">
                   Subscribe
                 </a>
               </div>
@@ -55,9 +65,9 @@ export default class Index extends Component {
         <div className="container front-page">
           <section className="section">
             <h2>
-              Tulisan Terbaru
+              Latest Articles
               <Link to="/blog" className="view-all">
-                Lihat Semuanya
+                View all
               </Link>
             </h2>
             <PostListing simple postEdges={latestPostEdges} />
@@ -65,9 +75,9 @@ export default class Index extends Component {
 
           <section className="section">
             <h2>
-              Populer Pos
+              Most Popular
               <Link to="/categories/popular" className="view-all">
-                Lihat Semuanya
+                View all
               </Link>
             </h2>
             <PostListing simple postEdges={popularPostEdges} />
