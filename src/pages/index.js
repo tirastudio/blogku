@@ -34,16 +34,6 @@ export default class Index extends Component {
                 Blog ini berisi tulisan, opini dan juga merupakan dokumentasi
                 pribadi biar gak kelupaan.
               </p>
-              <div className="social-buttons">
-                <GitHubButton
-                  href="https://github.com/tirastudio"
-                  data-size="large"
-                  data-show-count="true"
-                >
-                  taniarascia
-                </GitHubButton>
-              </div>
-            </div>
             <div className="newsletter-section">
               <img src={tania} className="newsletter-avatar" alt="Tania" />
               <div>
