@@ -1,4 +1,4 @@
-import egghead from '../content/images/levid.png'
+import levid from '../content/images/levid.png'
 import hashnode from '../content/thumbnails/hashnode.svg'
 
 export default [
