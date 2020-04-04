@@ -1,5 +1,5 @@
 import levid from '../content/images/levid.png'
-import hashnode from '../content/thumbnails/hashnode.svg'
+import weddingpress from '../content/images/weddingpress.png'
 
 export default [
   {
@@ -8,8 +8,8 @@ export default [
     img: levid,
   },
   {
-    title: 'Woman in Tech: Tania Rascia - with Bolaji Ayodeji of Hashnode',
-    path: 'https://townhall.hashnode.com/women-in-tech-tania-rascia-ck2bfzn2100up3is10zhphol4',
-    img: levid,
+    title: 'Aneka Template Undangan Pernikahan Digital Kekinian',
+    path: 'https://weddingpress.net/s/cuvj5h9',
+    img: weddingpress,
   },
 ]
