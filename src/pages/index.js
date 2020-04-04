@@ -34,6 +34,8 @@ export default class Index extends Component {
                 Blog ini berisi tulisan, opini dan juga merupakan dokumentasi
                 pribadi biar gak kelupaan.
               </p>
+               
+            </div>
             <div className="newsletter-section">
               <img src={tania} className="newsletter-avatar" alt="Tania" />
               <div>
