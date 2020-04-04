@@ -1,11 +1,11 @@
-import egghead from '../content/images/egghead.png'
+import egghead from '../content/images/thefeed.png'
 import hashnode from '../content/thumbnails/hashnode.svg'
 
 export default [
   {
-    title: 'Switching Careers and Learning in Public - with Joel Hooks of Egghead.io',
-    path: 'https://egghead.io/podcasts/switching-careers-and-learning-in-public-with-tania-rascia',
-    img: egghead,
+    title: 'Lejitkan Nilai Brand Anda dengan Levidio The Feed',
+    path: 'https://a.rootpixel.net/YBP2plJD',
+    img: thefeed,
   },
   {
     title: 'Woman in Tech: Tania Rascia - with Bolaji Ayodeji of Hashnode',
