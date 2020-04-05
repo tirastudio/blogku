@@ -9,16 +9,7 @@ export default class Footer extends Component {
     return (
       <footer className="footer container">
         <div>
-          <a href="#" target="_blank" rel="noopener noreferrer">
-            Ko-Fi
-          </a>
-          <a href="#" target="_blank" rel="noopener noreferrer">
-            Patreon
-          </a>
-          <Link to="/contact">Newsletter</Link>
-          <a href="https://agussetiyobudi.my.id/rss.xml" target="_blank" rel="noopener noreferrer">
-            RSS
-          </a>
+          <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">Built with Gatsby.js - Theme by Tania</a>
         </div>
         <div>
           <a href="https://github.com/" title="Open-source on GitHub">
