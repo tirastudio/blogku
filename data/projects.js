@@ -30,17 +30,15 @@ export default [
   {
     icon: '🏺',
     title: 'Laconia',
-    path: 'https://laconia.dev',
-    source: 'https://github.com/taniarascia/laconia/',
-    description: 'A modern PHP MVC framework written without libraries or frameworks.',
+    path: '#',
+    description: 'Jasa Pembuatan Website Property Single Agen atau Multi agen dengan Fitur Lengkap dan Desain Modern.',
   },
   {
-    icon: '⛏️',
-    title: ' Primitive',
-    path: 'https://taniarascia.github.io/primitive/',
-    source: 'https://github.com/taniarascia/primitive/',
+    icon: '🏠',
+    title: ' Property',
+    path: '#',
     description:
-      'A minimalist front-end design toolkit built with Sass for developing responsive, browser-consistent web apps.',
+      'Jasa Pembuatan Website Property Single Agen atau Multi agen dengan Fitur Lengkap dan Desain Modern.',
   },
   {
     icon: '🐍',
