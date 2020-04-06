@@ -1,10 +1,12 @@
+import levid from '../content/images/levid.png'
+
 export default [
   {
-    icon: '📝',
-    title: 'TakeNote',
-    path: 'https://takenote.dev',
-    source: 'https://github.com/taniarascia/takenote',
+    title: 'Toko Online',
+    path: '#',
+    source: '@',
     description: 'A free, open source notes app for the web.',
+    img: levid,
   },
   {
     icon: '🌙',
