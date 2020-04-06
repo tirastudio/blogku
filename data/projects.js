@@ -43,7 +43,7 @@ export default [
     description: 'Hobi nulis, males ribet di teknis, udah bikin disini aja 😎',
   },
   {
-    icon: '👨‍👩‍👦',
+    icon: '🌀',
     title: 'Membership',
     path: 'https://api.whatsapp.com/send?phone=+6288279325589&text=Halo, saya mau pesan website membership / affilisi, apakah bisa ?',
     description:
@@ -52,7 +52,7 @@ export default [
   {
     icon: '💯',
     title: 'LandingPage',
-    source: 'https://api.whatsapp.com/send?phone=+6288279325589&text=Hola, bikin landingpage siap pake mulai berapaan ya ?',
+    path: 'https://api.whatsapp.com/send?phone=+6288279325589&text=Hola, bikin landingpage siap pake mulai berapaan ya ?',
     description: 'Lagi cari jasa pembuatan landingpage yang benar-benar berkonversi tinggi? udah chat aja langsung 💬',
   },
 ]
