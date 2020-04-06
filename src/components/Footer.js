@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import whatsapp from '../../content/images/whatsapp.png'
-import gatsby from '../../content/thumbnails/gatsby.png'
+import whatsapp from '../../content/images/whatsapp.svg'
+import facebook from '../../content/images/facebook.svg'
 import telegram from '../../content/images/telegram.svg'
 
 export default class Footer extends Component {
@@ -30,13 +30,13 @@ export default class Footer extends Component {
               alt="whatsapp"
             />
           </a>
-          <a href="https://www.gatsbyjs.org/" title="Built with Gatsby">
+          <a href="http://m.me/tiyo.buki.39" title="Chat Mesengger">
             <img
-              src={gatsby}
+              src={facebook}
               target="_blank"
               rel="noopener noreferrer"
               className="footer-img"
-              alt="GitHub"
+              alt="facebook"
             />
           </a>
         </div>
