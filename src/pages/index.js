@@ -23,7 +23,7 @@ export default class Index extends Component {
 
     return (
       <Layout>
-        <Helmet title={`Freelancer Harian Lepas :V`} />
+        <Helmet title={`Freelancer Harian Lepas Bosku :V`} />
         <SEO />
         <div className="container">
           <div className="lead">
@@ -31,20 +31,20 @@ export default class Index extends Component {
               <h1>{`Hola, saya Tiyo 👋`} </h1>
               <p>
                 Anggap aja Freelancer harian lepas 😁
-                Blog ini berisi tulisan, opini dan juga merupakan dokumentasi
-                pribadi biar gak asik kelupaan.
+                Blog ini bakal di isi tulisan, opini dan dokumentasi
+                pribadi biar gak asik kelupaan, promo juga boleh bisa kali ya 😎.
               </p>
                
             </div>
             <div className="newsletter-section">
               <img src={tania} className="newsletter-avatar" alt="Tiyo" />
               <div>
-                <h3>Email Newsletter</h3>
+                <h3>Apa sih ini ?</h3>
                 <p>
-                  I write tutorials. Get an update when something new comes out by signing up below!
+                  Kadang pas lagi baik saya bagi bagi produk premium gratis, mau?
                 </p>
                 <a className="button" href="https://simimin.substack.com">
-                  Subscribe
+                  Mau lah 😂
                 </a>
               </div>
             </div>
