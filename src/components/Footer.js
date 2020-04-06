@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
-import netlify from '../../content/images/whatsapp.png'
+import whatsapp from '../../content/images/whatsapp.png'
 import gatsby from '../../content/thumbnails/gatsby.png'
-import github from '../../content/images/telegram.svg'
+import telegram from '../../content/images/telegram.svg'
 
 export default class Footer extends Component {
   render() {
