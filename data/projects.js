@@ -1,6 +1,6 @@
 export default [
   {
-    icon: '🏬'
+    icon: '🏬',
     title: 'Toko Online',
     path: 'https://api.whatsapp.com/send?phone=+6288279325589&text=Halo, saya mau buat toko online, bisa di infokan proses pemesanan nya ?',
     description: 'Paket Pembuatan Toko Online, Fitur Lengkap, Mulai 700ribuan, Gratis Domain',
