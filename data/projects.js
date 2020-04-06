@@ -1,12 +1,9 @@
-import levid from '../content/images/levid.png'
-
 export default [
   {
+    icon: '🏬'
     title: 'Toko Online',
-    path: '#',
-    source: '@',
-    description: 'A free, open source notes app for the web.',
-    img: levid,
+    path: 'https://api.whatsapp.com/send?phone=+6288279325589&text=Halo, saya mau buat toko online, bisa di infokan proses pemesanan nya ?',
+    description: 'Paket Pembuatan Toko Online, Fitur Lengkap, Mulai 700ribuan, Gratis Domain',
   },
   {
     icon: '🌙',
