@@ -1,4 +1,4 @@
-import wordpress from '../content/thumbnails/wp.png'
+import favicon from '../content/thumbnails/favicon.ico'
 import react from '../content/thumbnails/react.png'
 import dn from '../content/thumbnails/dn.webp'
 
@@ -14,9 +14,9 @@ export default [
     img: react,
   },
   {
-    title: 'Developing a WordPress Theme from Scratch - WordCamp Chicago',
+    title: 'DewaBiz.com: Web Hosting Unlimited Murah Indonesia',
     path:
-      'https://wordpress.tv/2017/08/30/tania-rascia-how-to-develop-a-wordpress-theme-from-scratch/',
-    img: wordpress,
+      'https://my.dewabiz.com/aff.php?aff=294',
+    img: favicon,
   },
 ]
