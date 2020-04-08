@@ -1,12 +1,12 @@
 import wordpress from '../content/thumbnails/wp.png'
 import react from '../content/thumbnails/react.png'
-import vue from '../content/thumbnails/vue.png'
+import dn from '../content/thumbnails/dn.webp'
 
 export default [
   {
-    title: 'Getting Started with Vue - Chicago JavaScript',
-    path: 'https://www.youtube.com/watch?v=FPVI1wd7Uo0',
-    img: vue,
+    title: 'Domainesia Hosting Termurah | Aman, Cepat & Terjamin',
+    path: 'https://www.domainesia.com/?aff=4336',
+    img: dn,
   },
   {
     title: 'An Introduction to React - Chicago JavaScript',
