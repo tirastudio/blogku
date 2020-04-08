@@ -1,5 +1,5 @@
 import favicon from '../content/thumbnails/favicon.ico'
-import react from '../content/thumbnails/react.png'
+import cloudcone from '../content/thumbnails/cloudcone.png'
 import dn from '../content/thumbnails/dn.webp'
 
 export default [
@@ -9,9 +9,9 @@ export default [
     img: dn,
   },
   {
-    title: 'An Introduction to React - Chicago JavaScript',
-    path: 'https://www.youtube.com/watch?v=35-WmqaQCj8&t',
-    img: react,
+    title: 'CloudCone: Deploy managed cloud services in a secure',
+    path: 'https://app.cloudcone.com/?ref=3093',
+    img: cloudcone,
   },
   {
     title: 'DewaBiz.com: Web Hosting Unlimited Murah Indonesia',
