@@ -83,7 +83,7 @@ export default class Index extends Component {
           </section>
 
           <section className="section">
-            <h2>Video Animasi</h2>
+            <h2>Hosting Mana?</h2>
             <SimpleListing simple data={speaking} />
           </section>
         </div>
