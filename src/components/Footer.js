@@ -9,7 +9,7 @@ export default class Footer extends Component {
     return (
       <footer className="footer container">
         <div>
-          <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">Built with Gatsby.js - Theme by Tania</a>
+          <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">Built with Gatsby.js</a>
         </div>
         <div>
           <a href="https://t.me/mimin94" title="Chat via Telegram">
