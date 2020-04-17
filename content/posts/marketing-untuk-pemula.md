@@ -2,7 +2,7 @@
 date: 2020-04-17
 title: 'Panduan Marketing Untuk Pemula'
 template: post
-thumbnail: '../thumbnails/git.png'
+thumbnail: '../thumbnails/marketing.svg'
 slug: marketing-untuk-pemula
 categories:
   - Marketing
@@ -13,17 +13,12 @@ tags:
 ---
 
 Bagi Anda yang berencana untuk memulai sebuah bisnis, marketing atau pemasaran adalah salah satu kunci yang harus Anda kuasai. Pasalnya, strategi pemasaran adalah salah satu penentu keberhasilan dalam bisnis Anda untuk jangka panjang.
-![Panduan Marketing](github.com/tirastudio/blogku/blob/master/content/images/Panduan-marketing-untuk-pemula.jpg)
 
 Pemasaran bisa dikatakan sebagai proses pengajaran kepada konsumen agar mereka paham mengapa harus memilih produk atau layanan Anda. Dalam menjalankan bisnis kuncinya adalah menemukan metode pemasaran yang tepat dan menentukan target pemasaran yang tepat. Anda pun juga harus dapat mempengaruhi konsumen Anda.
 
 beberapa pebisnis terkadang melakukan kesalahan dengan menganggap bahwa pemasaran hanyalah salah satu faktor kecil dalam penentu keberhasilan berbisnis. Padahal, pemasaran adalah segalanya dalam mengembangkan bisnis Anda. Pemasaran dalam hal ini menyangkut segala aspek seperti ikan, layanan, hingga perawatan terhadap produk yang Anda berikan.
 
 Melansir laman The Balance, berikut adalah hal-hal yang perlu Anda pahami tentang pemasaran dalam menjalankan bisnis Anda:
-
-**Daftar isi**
-
-[TOC]
 
 #Tahap Awal Pemasaran
 Dalam memulai bisnis, Anda harus menciptakan konsep produk atau layanan, mengidentifikasi siapa yang mungkin membelinya, mempromosikannya dan menjualnya melalui saluran penjualan yang tepat.
