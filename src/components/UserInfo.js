@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import tania from '../../content/images/profile.jpg'
-import patreon from '../../content/thumbnails/patreon.png'
+import wasap from '../../content/thumbnails/wasap.png'
 import kofi from '../../content/thumbnails/kofi.png'
 
 export default class UserInfo extends Component {
@@ -14,9 +14,9 @@ export default class UserInfo extends Component {
             </div>
             <div>
               <p>
-                Hola, belajar nulis di blog biar gak kelupaan apalagi dikit dikit lupa.{' '}
+                Hola, Saya seorang Freelancer harian lepas yang masih amatiran, pengen jadi profesional tapi masih kurang ilmu dan portofolio.{' '}
                 <strong>
-                  Blog tanpa adsense cuman berisi tutorial dan dokumentasi sedikit.
+                  nah bagi yang mau bikin website langsung kontak aja kita diskusikan biar nambah portofolio saya 😎.
                 </strong>
               </p>
 
@@ -32,11 +32,11 @@ export default class UserInfo extends Component {
                 </a>
                 <a
                   className="patreon-button"
-                  href="#"
+                  href="https://api.whatsapp.com/send?phone=+6288279325589&text=Halo,"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src={patreon} height="50" width="50" alt="Patreon" /> Become a Patron
+                  <img src={wasap} height="50" width="50" alt="Patreon" /> Chat WhatsApp
                 </a>
               </div>
             </div>
