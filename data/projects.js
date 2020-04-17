@@ -3,7 +3,7 @@ export default [
     icon: '🏬',
     title: 'Toko Online',
     path: 'https://api.whatsapp.com/send?phone=+6288279325589&text=Halo, saya mau buat toko online, bisa di infokan proses pemesanan nya ?',
-    description: 'Paket Pembuatan Toko Online, Fitur Lengkap, Mulai 700ribuan, Gratis Domain',
+    description: 'Paket Pembuatan Toko Online, Fitur Lengkap, Gratis Domain',
   },
   {
     icon: '🚀',
@@ -38,7 +38,7 @@ export default [
   },
   {
     icon: '📝',
-    title: 'Blok Pribadi',
+    title: 'Blog Pribadi',
     path: 'https://api.whatsapp.com/send?phone=+6288279325589&text=Halo, mau bikin blog pribadi berapaan ya ?',
     description: 'Hobi nulis, males ribet di teknis, udah bikin disini aja 😎',
   },
