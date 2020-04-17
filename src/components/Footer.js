@@ -23,7 +23,7 @@ export default class Footer extends Component {
           </a>
           <a href="https://api.whatsapp.com/send?phone=+6288279325589&text=Halo," title="Chat via WhatsApp">
             <img
-              src={whatsapp}
+              src={wa}
               target="_blank"
               rel="noopener noreferrer"
               className="footer-img"
