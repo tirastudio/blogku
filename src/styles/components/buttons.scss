@@ -121,8 +121,8 @@ a.patreon-button {
   display: inline-flex;
   align-items: center;
   border-radius: $border-radius;
-  border: 2px solid #f96854;
-  background: #f96854;
+  border: 2px solid #25D366;
+  background: #25D366;
   padding: 0 1rem;
   color: #fff !important;
   margin: 0 0.5rem;
@@ -134,14 +134,14 @@ a.patreon-button {
   &:hover,
   &:focus,
   &:active {
-    background: #f96854 !important;
-    border: 2px solid darken(#f96854, 15%);
+    background: #25D366 !important;
+    border: 2px solid darken(#25D366, 15%);
     color: #fff !important;
   }
 }
 
 .patreon {
-  background: #f96854;
+  background: #25D366;
   color: white;
   padding: 0.25rem 0.75rem;
   border: none !important;
@@ -153,7 +153,7 @@ a.patreon-button {
   &:hover,
   &:focus,
   &:active {
-    background: darken(#f96854, 10%) !important;
+    background: darken(#25D366, 10%) !important;
     color: white !important;
   }
 }
