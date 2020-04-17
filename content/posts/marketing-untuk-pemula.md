@@ -2,7 +2,7 @@
 date: 2020-04-17
 title: 'Panduan Marketing Untuk Pemula'
 template: post
-thumbnail: '../thumbnails/marketing.svg'
+thumbnail: '../thumbnails/git.png'
 slug: marketing-untuk-pemula
 categories:
   - Marketing
