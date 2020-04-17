@@ -88,14 +88,14 @@ a.donate-button {
   align-items: center;
   border-radius: $border-radius;
   border: none;
-  background: $primary-color;
+  background: #25D366;
   padding: 0.75rem 1rem;
   color: white;
 
   &:hover,
   &:focus,
   &:active {
-    background: darken($primary-color, 10%);
+    background: darken(#25D366, 10%);
     border: none;
     color: white;
   }
