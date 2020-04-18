@@ -821,9 +821,9 @@ blockquote {
     justify-content: space-between;
 
     a.donate-button {
-      background: darken(#2ca5e0, 20%);
+      background: #2ca5e0;
       &:hover {
-        background: darken(#2ca5e0, 30%);
+        background: #2ca5e0;
       }
     }
   }
