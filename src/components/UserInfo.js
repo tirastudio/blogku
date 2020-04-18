@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import tania from '../../content/images/profile.jpg'
 import wasap from '../../content/thumbnails/wasap.png'
-import kofi from '../../content/thumbnails/kofi.png'
+import tele from '../../content/thumbnails/tele.png'
 
 export default class UserInfo extends Component {
   render() {
@@ -22,13 +22,13 @@ export default class UserInfo extends Component {
 
               <div className="flex">
                 <a
-                  href="#"
+                  href="https://t.me/haitiyo"
                   className="donate-button"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <img src={kofi} className="coffee-icon" alt="Coffee icon" />
-                  Buy me a coffee
+                  <img src={tele} className="coffee-icon" alt="Coffee icon" />
+                  Chat Telegram
                 </a>
                 <a
                   className="patreon-button"
