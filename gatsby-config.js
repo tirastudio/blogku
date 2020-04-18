@@ -173,7 +173,7 @@ module.exports = {
             }
           `,
             output: config.siteRss,
-            title: 'Tania Rascia - RSS Feed',
+            title: 'Agus Setiyo Budi - RSS Feed',
           },
         ],
       },
