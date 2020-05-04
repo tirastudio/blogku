@@ -11,7 +11,6 @@ import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
 import speaking from '../../data/speaking'
 import podcasts from '../../data/podcasts'
-import quotes from '../../data/quotes'
 import tania from '../../content/images/profile.jpg'
 
 export default class Index extends Component {
@@ -32,7 +31,7 @@ export default class Index extends Component {
               <p>
                 Anggap aja Freelancer harian lepas 😁
                 Blog ini bakal di isi tulisan, opini dan dokumentasi
-                pribadi biar gak asik kelupaan, promo juga boleh bisa kali ya 😎.
+                pribadi biar gak asik kelupaan, promo aja di banyakin kali ya 😎.
               </p>
                
             </div>
@@ -87,15 +86,6 @@ export default class Index extends Component {
             <SimpleListing simple data={speaking} />
           </section>
         </div>
-        <div className="quotations-section">
-          <div className="quotations">
-            {quotes.map(quote => (
-              <blockquote className="quotation" key={quote.name}>
-                <p>{quote.quote}</p>
-                <cite>— {quote.name}</cite>
-              </blockquote>
-            ))}
-          </div>
         </div>
       </Layout>
     )
