@@ -30,8 +30,8 @@ export default class Index extends Component {
               <h1>{`Hola, saya Tiyo 👋`} </h1>
               <p>
                 Anggap aja Freelancer harian lepas 😁
-                Blog ini bakal di isi tulisan, opini dan dokumentasi
-                pribadi biar gak asik kelupaan, promo aja di banyakin kali ya 😎.
+                Blog ini maunya di isi tulisan, opini dan dokumentasi
+                pribadi biar gak asik kelupaan, tapi promo aja di banyakin kali ya 😎.
               </p>
                
             </div>
