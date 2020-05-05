@@ -11,6 +11,7 @@ import config from '../../data/SiteConfig'
 import projects from '../../data/projects'
 import speaking from '../../data/speaking'
 import podcasts from '../../data/podcasts'
+import quotes from '../../data/quotes'
 import tania from '../../content/images/profile.jpg'
 
 export default class Index extends Component {
@@ -86,6 +87,18 @@ export default class Index extends Component {
             <SimpleListing simple data={speaking} />
           </section>
         </div>
+        <div className="gradient-section">
+          <div className="container">
+            <h2>Other People Say...</h2>
+          </div>
+          <div className="quotations">
+            {quotes.map(quote => (
+              <blockquote className="quotation" key={quote.name}>
+                <p>{quote.quote}</p>
+                <cite>— {quote.name}</cite>
+              </blockquote>
+            ))}
+          </div>
         </div>
       </Layout>
     )
