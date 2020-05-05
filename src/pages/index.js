@@ -31,7 +31,7 @@ export default class Index extends Component {
               <p>
                 Anggap aja Freelancer harian lepas 😁
                 Blog ini maunya di isi tulisan, opini dan dokumentasi
-                pribadi biar gak asik kelupaan, tapi promo aja di banyakin kali ya 😎.
+                pribadi biar gak asik kelupaan, tapi kayaknya promo aja di banyakin kali ya 😎.
               </p>
                
             </div>
