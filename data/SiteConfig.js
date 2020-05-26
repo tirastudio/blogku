@@ -20,6 +20,10 @@ const config = {
   userTwitter: 'twitter.com',
   menuLinks: [
     {
+      name: 'Home',
+      link: '/',
+    },
+     {
       name: 'About me',
       link: '/me/',
     },
