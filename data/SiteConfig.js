@@ -24,11 +24,11 @@ const config = {
       link: '/',
     },
      {
-      name: 'About me',
+      name: 'About',
       link: '/me/',
     },
     {
-      name: 'Articles',
+      name: 'Blog',
       link: '/blog/',
     },
     {
