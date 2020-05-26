@@ -10,7 +10,7 @@ module.exports = {
       feed_url: urljoin(config.siteUrl, config.pathPrefix, config.siteRss),
       title: config.siteTitle,
       description: config.siteDescription,
-      image_url: `${urljoin(config.siteUrl, config.pathPrefix)}/logos/logo-48.png`,
+      image_url: `${urljoin(config.siteUrl, config.pathPrefix)}/logos/faviconme.svg`,
     },
   },
   plugins: [
@@ -82,23 +82,22 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: config.siteTitle,
-        short_name: config.siteTitleShort,
-        description: config.siteDescription,
-        start_url: config.pathPrefix,
+        name: `TIYO`,
+        short_name: `TIYO`,
+        start_url: `/`,
         background_color: config.backgroundColor,
         theme_color: config.themeColor,
-        display: 'minimal-ui',
+        display: `standalone`,
         icons: [
           {
-            src: '/logos/logo-48.png',
+            src: '/logos/faviconme.svg',
             sizes: '48x48',
-            type: 'image/png',
+            type: 'image/svg',
           },
           {
-            src: '/logos/logo-1024.png',
+            src: '/logos/faviconme.svg',
             sizes: '1024x1024',
-            type: 'image/png',
+            type: 'image/svg',
           },
         ],
       },
