@@ -1,29 +1,30 @@
 export default [
   {
-    name: 'Craig',
-    quote: `It's no exaggeration to say that I
-  wouldn't currently have a job in development without this site. So thanks for
-  ruining my life, Tania.`,
+    name: 'Retno L',
+    quote: `Sangat profesional dan membantu memberi solusi. Recommended. Saya pasti akan memakai jasanya lagi nanti. Terimakasih sudah membantu..
+
+`,
   },
   {
-    name: 'Lori',
-    quote: `Not to get too dramatic, but I find your site to be an unspeakably beautiful
-  lifeboat in an overwhelming sea of technical jargon and shite.`,
+    name: 'Hendro S',
+    quote: `Design sesuai harapan.. Sudah berjalan 1 bulan tetap di full support.. Terima kasih..`,
   },
   {
-    name: 'Evan',
-    quote: `You taught me more than any class could have and it took me a fraction of the time because of how clearly you write and teach.`,
+    name: 'Innikor C',
+    quote: `saya kurang paham dengan web , untuk mendesign web saya gunakan jasa saja, selain web saya di design saya pun di arahkan untuk web saya jauh lebih baik.
+
+`,
   },
   {
-    name: 'Zuzana',
-    quote: `I keep coming back to your website and I appreciate it more and more every time. The way you explain things just make sense!`,
+    name: 'Marchel F',
+    quote: `Mantul, sangat recommended`,
   },
   {
-    name: 'P.P.',
-    quote: `You are the best tutor I have ever seen in my life. This tutorial is an excellent example of simplicity, clear explanations and detailed examples. I love every bit of your work. Never stop teaching, please.`,
+    name: 'Ferdinan H',
+    quote: `Sellernya fast respon, bisa direvisi, pokoknya bukan kaleng kaleng`,
   },
   {
-    name: 'Antony',
-    quote: 'Just wanted to thank you for your awesome tutorials. Glad you found your niche, teaching valuable skills to so many folks out there, instead of preparing fine meals for a select few.'
+    name: 'Ahmad Z',
+    quote: 'Akhirnya punya toko online sendiri, harga terjangkau dikantong, design kelas tinggi, layanan supportnya juga bukan kaleng kaleng'
   }
 ]
