@@ -1,15 +1,15 @@
 import levid from '../content/images/levid.png'
-import weddingpress from '../content/images/weddingpress.png'
+import weddingpress from '../content/images/bioku.png'
 
 export default [
   {
-    title: 'Lejitkan Nilai Brand Anda dengan Levidio The Feed',
-    path: 'https://a.rootpixel.net/YBP2plJD',
+    title: 'Membuat Video dan Grafis Profesional Dengan PowerPoint',
+    path: 'https://tiyo.me/levidio/',
     img: levid,
   },
   {
-    title: 'Aneka Template Undangan Pernikahan Digital Kekinian',
-    path: 'https://weddingpress.net/s/cuvj5h9',
-    img: weddingpress,
+    title: 'Aneka Template Bio Link Kekinian',
+    path: 'https://tirastudio.com/bioku/',
+    img: bioku,
   },
 ]
