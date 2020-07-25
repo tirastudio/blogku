@@ -1,5 +1,5 @@
 import levid from '../content/images/levid.png'
-import weddingpress from '../content/images/bioku.png'
+import bioku from '../content/images/bioku.png'
 
 export default [
   {
