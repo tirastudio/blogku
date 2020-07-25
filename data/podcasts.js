@@ -1,5 +1,5 @@
 import levid from '../content/images/levid.png'
-import bioku from '../content/images/bioku.png'
+import bio from '../content/images/bio.png'
 
 export default [
   {
@@ -10,6 +10,6 @@ export default [
   {
     title: 'Aneka Template Bio Link Kekinian',
     path: 'https://tirastudio.com/bioku/',
-    img: bioku,
+    img: bio,
   },
 ]
