@@ -24,8 +24,7 @@ Mungkin sekarang banyak permasalahan yang di alami oleh Para Pebisnis. Apalagi D
 * Tidak Memiliki Penghasilan Tambahan
 * Ingin Memulai Bisnis Dengan Modal Terbatas
 * Ingin memiliki Program Delivery Sendiri
-(https://foodpress.id/wp-content/uploads/2020/06/fp1-min.png)
-
+[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/fp1-min.png)](https://api.whatsapp.com/send?phone=6288271477642&text=Halo%2C%20mau%20tanya%20bonus%20pembelian%20tema%20FoodPress%20nya%20donk%2C)
 Nah.. saat ini FoodPress sudah bisa dibeli.
 Cek [Klik Disini](https://foodpress.id/aff/485/898/)
 
@@ -55,22 +54,22 @@ Tanpa ada batasan berapa jumlah produk yang bisa anda jual.
 **Tampilan Responsive di Berbagai Gadget**
 Pelanggan Dengan Mudah Melakukan Pemesanan Baik Di Desktop Maupun di Smartphone Mereka
 
-(https://foodpress.id/wp-content/uploads/2020/06/demo2-min.gif)
+[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/demo2-min.gif)](https://api.whatsapp.com/send?phone=6288271477642&text=Halo%2C%20mau%20tanya%20bonus%20pembelian%20tema%20FoodPress%20nya%20donk%2C)
 
 **Multiple Order**
 Pembeli Dengan Mudah Melakukan Pemesanan Dengan Tombol Add To Cart yang bisa di klik dengan mudah.
 
-(https://foodpress.id/wp-content/uploads/2020/06/order-min.gif)
+[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/order-min.gif)](https://api.whatsapp.com/send?phone=6288271477642&text=Halo%2C%20mau%20tanya%20bonus%20pembelian%20tema%20FoodPress%20nya%20donk%2C)
 
 **Database Orderan**
 Semua Data Pelanggan, Nama, Nomer HP, Jenis Pesanan Tersimpan Dengan Rapi Di Database Website
 
-(https://foodpress.id/wp-content/uploads/2020/06/data-orderan.gif)
+[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/data-orderan.gif)](https://api.whatsapp.com/send?phone=6288271477642&text=Halo%2C%20mau%20tanya%20bonus%20pembelian%20tema%20FoodPress%20nya%20donk%2C)
 
 **Checkout Melalui WhatsApp**
 Pelanggan Dengan Mudah Melakukan Pemesanan Baik Di Desktop Maupun di Smartphone Mereka
 
-(https://foodpress.id/wp-content/uploads/2020/06/orderan.png)
+[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/orderan.png)](https://api.whatsapp.com/send?phone=6288271477642&text=Halo%2C%20mau%20tanya%20bonus%20pembelian%20tema%20FoodPress%20nya%20donk%2C)
 
 **Tidak hanya fitur diatas,**
 Pada launch kali ini ada tambahan B O N U S Plugin Notifku,
