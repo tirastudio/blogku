@@ -12,8 +12,9 @@ tags:
 ---
 
 ## Melejit di Era Krisis Bareng FoodPress Yuk
+
 ###### Cocok nih Untuk Berbagai Jenis Bisnis Seperti Kuliner, Retail , Sayuran , Dan Bisnis Lainnya
-.
+
 Mungkin sekarang banyak permasalahan yang di alami oleh Para Pebisnis. Apalagi Datangnya Pandemi Membuat Berbagai Lini Bisnis Menjadi Lesu Dan Gulung Tikar. Dan Ini adalah Berbagai Macam Permasalahan Para Pebisnis Seperti Anda
 * Belum Memiliki Website Untuk Berjualan Online
 * Pelanggan Anda Kesusahan Dalam Order Produk Anda
@@ -23,10 +24,10 @@ Mungkin sekarang banyak permasalahan yang di alami oleh Para Pebisnis. Apalagi D
 * Tidak Memiliki Penghasilan Tambahan
 * Ingin Memulai Bisnis Dengan Modal Terbatas
 * Ingin memiliki Program Delivery Sendiri
-[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/fp1-min.png)](https://nodesource.com/products/nsolid)
+(https://foodpress.id/wp-content/uploads/2020/06/fp1-min.png)
 
 Nah.. saat ini FoodPress sudah bisa dibeli.
-Cek [Klik Disini](https://foodpress.id/aff/485/912/)
+Cek [Klik Disini](https://foodpress.id/aff/485/898/)
 
 Apa saja fitur yang ada di dalamnya?
 Yuk kita liat penjelasan fitur-fitur kerennya :
@@ -54,22 +55,22 @@ Tanpa ada batasan berapa jumlah produk yang bisa anda jual.
 **Tampilan Responsive di Berbagai Gadget**
 Pelanggan Dengan Mudah Melakukan Pemesanan Baik Di Desktop Maupun di Smartphone Mereka
 
-[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/demo2-min.gif)](https://nodesource.com/products/nsolid)
+(https://foodpress.id/wp-content/uploads/2020/06/demo2-min.gif)
 
 **Multiple Order**
 Pembeli Dengan Mudah Melakukan Pemesanan Dengan Tombol Add To Cart yang bisa di klik dengan mudah.
 
-[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/order-min.gif)](https://nodesource.com/products/nsolid)
+(https://foodpress.id/wp-content/uploads/2020/06/order-min.gif)
 
 **Database Orderan**
 Semua Data Pelanggan, Nama, Nomer HP, Jenis Pesanan Tersimpan Dengan Rapi Di Database Website
 
-[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/data-orderan.gif)](https://nodesource.com/products/nsolid)
+(https://foodpress.id/wp-content/uploads/2020/06/data-orderan.gif)
 
 **Checkout Melalui WhatsApp**
 Pelanggan Dengan Mudah Melakukan Pemesanan Baik Di Desktop Maupun di Smartphone Mereka
 
-[![N|Solid](https://foodpress.id/wp-content/uploads/2020/06/orderan.png)](https://nodesource.com/products/nsolid)
+(https://foodpress.id/wp-content/uploads/2020/06/orderan.png)
 
 **Tidak hanya fitur diatas,**
 Pada launch kali ini ada tambahan B O N U S Plugin Notifku,
@@ -78,7 +79,7 @@ Plugin notifikasi sales pop up untuk meningkatkan daya tarik pembeli dan juga bi
 **Tunggu apa lagi ?!**
 
 Lejitkan bisnis anda sekarang juga dengan **Food Press**.
-Cek Selengkapnya [Klik Disini](https://foodpress.id/aff/485/912/)
+Cek Selengkapnya [Klik Disini](https://foodpress.id/aff/485/898/)
 
 Semoga setelah menggunakan FoodPress,
 Anda Semakin terbantu dan usahanya makin melejit.
