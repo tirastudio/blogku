@@ -21,7 +21,7 @@ Median UI versi WordPress ini terinspirasi dari template yang sebelumnya tersedi
 
 
 ## Tema Median UI Versi WordPress
-Pengguna wordpress self hosting dari tahun ke tahun semakin meningkat. Setiap orang, tentu memiliki tujuan berbeda dalam membuat website. Pun dengan tema wordpress yang akan digunakan sebagai pendukung utama dari sebuah website.
+Pengguna WordPress self hosting dari tahun ke tahun semakin meningkat. Setiap orang, tentu memiliki tujuan berbeda dalam membuat website. Begitu juga dengan tema WordPress yang akan digunakan sebagai pendukung utama dari sebuah website.
 Para blogger tentu tahu persis dengan tema blogspot median UI. Template yang sangat keren dari segi tampilan, fitur dan fast loading. Nah, sekarang sudah ada versi wp dari Median UI.
 
 ## Fitur Apa Saja Yang Ada di Median UI
@@ -34,7 +34,7 @@ Ukuran template fleksibel menyesuaikan di setiap layar serta layout yang disusun
 **Easy Customize**
 
 
-Sangat mudah untuk mengubah warna, lebar sampai font melalui Desainer Tema Blogger termasuk pengaturan widget pada menu Layout
+Sangat mudah untuk mengubah warna, lebar sampai font melalui fitur kustomisasi di WordPress
 
 **Fast Loading**
 
@@ -68,13 +68,13 @@ Cek Selengkapnya **[Klik Disini](http://ex-themes.com/item/median-wp-themes-prem
 
 Demo **Median UI WordPress** **[Klik Disini](https://median-wp.ex-themes.com/)**
 
-Tertarik untuk gunakan tema keren ini? Jika tertarik, kamu bisa beli langsung dari penyediannya pada link yang sudah saya siapkan diatas.
+Tertarik untuk menggunakan tema keren ini? Jika tertarik, kamu bisa beli langsung dari penyedia nya pada link yang sudah saya siapkan diatas.
 
 
 Harganya cukup bersahabat kok dan tergolong murah dibanding template WordPress bergaya berita di luar sana yang cenderung lebih mahal.
 
 
-**Masih bingun atau gak punya waktu untuk setup tema nya?**
+**Masih bingun atau gak punya waktu untuk set up tema nya?**
 
 
-Silahkan hubungi kontak saya , anda bisa juga memakai jasa saya untuk pembuatan website yang siap pakai.
+Silahkan hubungi kontak saya , kamu bisa juga memakai jasa saya untuk pembuatan website yang siap pakai.
