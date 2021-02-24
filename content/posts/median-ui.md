@@ -64,9 +64,9 @@ Didesain dengan lebih mengutamakan tampilan mobile, tampilannya dibuat modern da
 Berapa Harga Tema **Median UI WordPress** ?
 
 
-Cek Selengkapnya **[Klik Disini]**(http://ex-themes.com/item/median-wp-themes-premium)
+Cek Selengkapnya **[Klik Disini](http://ex-themes.com/item/median-wp-themes-premium)**
 
-Demo **Median UI WordPress** **[Klik Disini]**(https://median-wp.ex-themes.com/)
+Demo **Median UI WordPress** **[Klik Disini](https://median-wp.ex-themes.com/)**
 
 Tertarik untuk gunakan tema keren ini? Jika tertarik, kamu bisa beli langsung dari penyediannya pada link yang sudah saya siapkan diatas.
 
