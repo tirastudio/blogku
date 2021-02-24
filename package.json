@@ -1,8 +1,8 @@
 {
-  "name": "taniarascia.com",
+  "name": "agussetiyobudi.my.id",
   "description": "Personal website running on Gatsby, React, and Node.js.",
   "version": "1.0.1",
-  "author": "Tania Rascia <hello@taniarascia.com>",
+  "author": "Agus Setiyo Budi <agussetiyobudi1994@gmail.com>",
   "repository": "git@github.com:taniarascia/taniarascia.com",
   "dependencies": {
     "eslint-utils": "^1.4.1",
@@ -56,12 +56,12 @@
     "write-good": "^1.0.1"
   },
   "keywords": [
-    "tania rascia",
-    "development",
-    "dev",
-    "tutorials",
-    "tech",
-    "articles",
+    "agus setiyo budi",
+    "sosiologi",
+    "jasa website",
+    "toko online pekanbaru",
+    "matapanda",
+    "tiyo",
     "blog"
   ],
   "license": "MIT",
